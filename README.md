@@ -12,6 +12,10 @@ A curated list of awesome Generative Adversarial Networks papers, experiments, l
 
 – Yann LeCun, The prominent deep learning researcher and director of AI research at Facebook
 
-# papers
+## papers
 
 - **Generative Adversarial Networks** [[paper]](https://arxiv.org/abs/1406.2661) [[code]](https://github.com/goodfeli/adversarial) (the first paper)
+
+## videos
+
+- [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks), by Ian Goodfellow
