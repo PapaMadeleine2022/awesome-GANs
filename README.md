@@ -40,3 +40,4 @@ A curated list of awesome Generative Adversarial Networks papers, experiments, l
 ## videos
 
 - [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks), by Ian Goodfellow
+-[Tutorial on Generative Adversarial Networks](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU) by Mark Chang
