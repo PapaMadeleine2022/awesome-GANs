@@ -1,4 +1,4 @@
-# Awesome Generative Adversarial Networks  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+# Awesome Generative Adversarial Networks  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Generative Adversarial Networks papers, experiments, libraries, and projects.
 
@@ -32,7 +32,8 @@ A curated list of awesome Generative Adversarial Networks papers, experiments, l
 - [dyelax/**Adversarial_Video_Generation**](https://github.com/dyelax/Adversarial_Video_Generation):
 - [phillipi/**pix2pix**](https://github.com/phillipi/pix2pix): Image-to-image translation using conditional adversarial nets https://phillipi.github.io/pix2pix/
 - [openai/**cleverhans**](https://github.com/openai/cleverhans): A library for benchmarking vulnerability to adversarial examples
-- junyanz/[**iGAN**](https://github.com/junyanz/iGAN): iGAN: Interactive Image Generation via Generative Adversarial Networks
+- [junyanz/**iGAN**](https://github.com/junyanz/iGAN): Interactive Image Generation via Generative Adversarial Networks
+- [devnag/**pytorch-generative-adversarial-networks**](https://github.com/devnag/pytorch-generative-adversarial-networks): A very simple generative adversarial network (GAN) in PyTorch
 
 ## videos
 
