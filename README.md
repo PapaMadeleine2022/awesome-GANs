@@ -18,7 +18,24 @@ A curated list of awesome Generative Adversarial Networks papers, experiments, l
 
 ## codes
 
-- [**Generative Adversarial Networks**](https://github.com/goodfeli/adversarial) (the first code)
+- [**goodfeli/adversarial**](https://github.com/goodfeli/adversarial) (the first code)
+
+- [Newmu/dcgan_code](https://github.com/Newmu/dcgan_code) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+- [carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"
+- [soumith/dcgan.torch](https://github.com/soumith/dcgan.torch) A torch implementation of http://arxiv.org/abs/1511.06434: Train your own image generator
+- [jacobgil/keras-dcgan](https://github.com/jacobgil/keras-dcgan) Keras implementation of Deep Convolutional Generative Adversarial Networks
+- [facebook/eyescream](https://github.com/facebook/eyescream) natural image generation using ConvNets
+
+- [musyoku/adversarial-autoencoder](https://github.com/musyoku/adversarial-autoencoder) Chainer implementation of adversarial autoencoder (AAE)
+- [paarthneekhara/text-to-image](https://github.com/paarthneekhara/text-to-image) Text to image synthesis using thought vectors
+
+- [dpkingma/nips14-ssl](https://github.com/dpkingma/nips14-ssl)
+- [openai/improved-gan](https://github.com/openai/improved-gan)
+- [yujiali/gmmn](https://github.com/yujiali/gmmn)
+- [dyelax/Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)
+- [phillipi/pix2pix](https://github.com/phillipi/pix2pix	) Image-to-image translation using conditional adversarial nets https://phillipi.github.io/pix2pix/
+- [openai/cleverhans](https://github.com/openai/cleverhans) A library for benchmarking vulnerability to adversarial examples
+
 
 ## videos
 
