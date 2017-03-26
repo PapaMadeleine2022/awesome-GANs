@@ -14,7 +14,11 @@ A curated list of awesome Generative Adversarial Networks papers, experiments, l
 
 ## papers
 
-- **Generative Adversarial Networks** [[paper]](https://arxiv.org/abs/1406.2661) [[code]](https://github.com/goodfeli/adversarial) (the first paper)
+- [**Generative Adversarial Networks**](https://arxiv.org/abs/1406.2661) (the first paper)
+
+## codes
+
+- [**Generative Adversarial Networks**](https://github.com/goodfeli/adversarial) (the first code)
 
 ## videos
 
