@@ -35,9 +35,9 @@ A curated list of awesome Generative Adversarial Networks papers, experiments, l
 - [dyelax/**Adversarial_Video_Generation**](https://github.com/dyelax/Adversarial_Video_Generation):
 - [phillipi/**pix2pix**](https://github.com/phillipi/pix2pix): Image-to-image translation using conditional adversarial nets https://phillipi.github.io/pix2pix/
 - [openai/**cleverhans**](https://github.com/openai/cleverhans): A library for benchmarking vulnerability to adversarial examples
-
+- junyanz/[iGAN](https://github.com/junyanz/iGAN): iGAN: Interactive Image Generation via Generative Adversarial Networks
 
 ## videos
 
 - [Generative Adversarial Networks](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks), by Ian Goodfellow
--[Tutorial on Generative Adversarial Networks](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU) by Mark Chang
+- [Tutorial on Generative Adversarial Networks](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU) by Mark Chang
